@@ -4,13 +4,13 @@
 
 Before you start develop, make sure that you have installed following stuff
 
-nodejs
+| Dependency name  | Command to check     | Command to install                     | Documentation                    |
+| ---------------- |:--------------------:| --------------------------------------:| --------------------------------------:|
+| nodejs           | node -v              |(download)[https://nodejs.org/en/]      | (node)[https://nodejs.org/en/]      |
+| npm              | npm -v               |npm install npm@latest -g               | (npm)[https://www.npmjs.com/]
+| cordova          | cordova -v           |npm install -g cordova                  | (cordova)[http://cordova.apache.org/docs/en/latest/] |
+| ionic            | ionic -v             |npm install -g ionic cordova            | (ionic)[http://ionicframework.com/docs/] |
 
-npm
-
-cordova
-
-ionic 
 
 ### Run app
 
